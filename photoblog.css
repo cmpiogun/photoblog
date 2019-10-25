@@ -1,0 +1,17 @@
+img{
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+
+}
+
+h1{
+	/*width: 30%;*/
+	font-family: 'Grenze', serif;
+	font-weight: bold;
+	font-size: 40px;
+	margin: 1.66%;
+	border-bottom: 3px solid black;
+	padding-bottom: 20px;
+	/*border-top: 3px solid black;*/
+}
